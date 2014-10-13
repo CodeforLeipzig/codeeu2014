@@ -19,7 +19,8 @@ http://jsbin.com/paxatu/3/edit
 - Firefox Entwickler-Werkzeuge: Extras -> Web-Entwickler -> Werkzeuge Ein-/Ausblenden
 
 ## Dokumentation
+- Ausfürliches Tutorial über das erstellen eines Balkendiagramms mit HTML oder [D3.js](http://d3js.org/): http://bost.ocks.org/mike/bar/
 - Alles über JavaScript, HTML, CSS: https://developer.mozilla.org/en-US/docs/Web
 - XMLHttpRequest: https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
 - document.createElement: https://developer.mozilla.org/en-US/docs/Web/API/document.createElement
-- C3.js JavaScript Bibliothek: http://c3js.org
+- C3.js JavaScript Bibliothek: http://c3js.org (Es gibt noch ganz viele andere Bibliotheken)
