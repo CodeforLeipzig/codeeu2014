@@ -1,0 +1,18 @@
+<html>
+<head>
+    <script type="text/javascript"
+      src="dygraph-combined.js"></script>
+</head>
+<body>
+    <h2>Beschaeftigte in Leipzig</h2>
+    <div id="graphdiv"></div>
+    <script type="text/javascript">
+      g = new Dygraph(
+        // containing div
+        document.getElementById("graphdiv"),
+        // CSV or path to a CSV file.
+        "beschaeftigte_summe.csv"
+      );
+    </script>
+</body>
+</html>
